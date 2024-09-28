@@ -10,7 +10,7 @@
 
 ### Pls check / uncheck the below mentioned checkboxes
 
-- [ ] Simple Flask Python file(app.py)
+- [x] Simple Flask Python file(app.py)
 - [x] Dockerfile
 - [ ] Docker Compose file
 - [ ] ml-docker-app-flask Python file
