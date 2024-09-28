@@ -88,6 +88,10 @@
 
 ![image](https://github.com/user-attachments/assets/92c78e66-a179-4865-8246-31988a76dcdb)
 
+**16. Docker push**
+
+![image](https://github.com/user-attachments/assets/00c41438-9e1f-4b27-9fbc-1b7cd437ac66)
+
 
 ***
 
