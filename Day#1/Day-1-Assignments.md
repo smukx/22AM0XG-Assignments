@@ -67,6 +67,26 @@
 
 ![image](https://github.com/user-attachments/assets/40a0f017-10a5-492f-9e54-f658e86da436)
 
+**11. List the running containers**
+
+![image](https://github.com/user-attachments/assets/897e9824-c038-4d83-89ca-5cf943a7d811)
+
+**12. List the Running Containers(Non-Running Containers)**
+
+![image](https://github.com/user-attachments/assets/7fb09acf-79c3-4c6f-8d7f-3afad02aaec1)
+
+**13. Stop the Running Container**
+
+![image](https://github.com/user-attachments/assets/c02d6f26-7eb5-477e-874b-d3853c9726c5)
+
+**14. Creating an Container with name**
+
+![image](https://github.com/user-attachments/assets/808ef94a-0192-415c-8038-03d24e93769e)
+
+
+**15. Execting Docker bash shell**
+
+![image](https://github.com/user-attachments/assets/92c78e66-a179-4865-8246-31988a76dcdb)
 
 
 ***
