@@ -54,15 +54,17 @@
 
 #### #4 Commit the code to the Github Repo. The repo should be a public one. 
 
+![image](https://github.com/user-attachments/assets/88c70916-42f5-4dbf-aba3-481e49222071)
+
 
 ***
 
 #### #5 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> Add your answer here!
+
+![image](https://github.com/user-attachments/assets/ce784144-5c56-444d-9092-ddc039f6d7d5)
 
 ***
 
 #### #6 Create a post on Linkedin about your learning journey in this 1 credit course
-> Add your answer here!
 
 ***
