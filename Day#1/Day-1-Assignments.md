@@ -108,6 +108,31 @@
 
 ![image](https://github.com/user-attachments/assets/706fde18-5792-41f0-8946-4bd21c13f726)
 
+**21. Docker Compose UP**
+
+![image](https://github.com/user-attachments/assets/bc96bd4e-2e80-4a61-9ccd-c5d249ec6874)
+
+
+**22. Docker compose down**
+
+![image](https://github.com/user-attachments/assets/7aa1b99d-db4e-4764-8d31-9317f548bd7f)
+
+**23. Docker remove container**
+
+![image](https://github.com/user-attachments/assets/890b7577-aee7-401a-9516-cd5b8ff5160c)
+
+**24. List out the docker networks**
+
+![image](https://github.com/user-attachments/assets/c7685d0f-24e8-484a-acfa-b0fe191e3a72)
+
+**25. Create a new netowrk**
+
+![image](https://github.com/user-attachments/assets/0cb8da20-ffd2-4852-aabe-29b27ba5cf86)
+
+**26. Remove the docker network**
+
+![image](https://github.com/user-attachments/assets/2f9c9abe-3ab7-4b5f-b131-9d89fd461715)
+
 
 
 ***
