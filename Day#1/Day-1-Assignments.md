@@ -98,6 +98,16 @@
 
 **18. Docker Compose**
 
+![image](https://github.com/user-attachments/assets/05637ae2-05b7-419e-882c-49c56476167e)
+
+**19. Docker compose up -d**
+
+![image](https://github.com/user-attachments/assets/80abf4c3-9ff5-41f2-a0b4-0922a6487d48)
+
+**20. Docker Running Container**
+
+![image](https://github.com/user-attachments/assets/706fde18-5792-41f0-8946-4bd21c13f726)
+
 
 
 ***
@@ -124,21 +134,33 @@
 ***
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
+
+![image](https://github.com/user-attachments/assets/05637ae2-05b7-419e-882c-49c56476167e)
 
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> Add your answer here!
+
+Not Running 
+
+![image](https://github.com/user-attachments/assets/6415ba45-fc1e-4b70-aef5-6c0a408c0e54)
+
+Running the Docker Container
+<br>
+
+![image](https://github.com/user-attachments/assets/aca61002-aed2-416e-9aed-05e23b138e57)
 
 ***
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
-> Add your answer here!
+
+![image](https://github.com/user-attachments/assets/75738484-233a-4a98-a288-7323d60e36c3)
+
 
 ***
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+
+![image](https://github.com/user-attachments/assets/a8bba280-5897-46c6-8230-021d987fdf55)
 
 ***
