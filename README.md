@@ -13,9 +13,9 @@
 
 ### Day 2 Assignments
 
-- [ ] Create a simple machine-learning application & verify the prediction based on the given score
+- [x] Create a simple machine-learning application & verify the prediction based on the given score
 - [x] Create a simple machine-learning application & verify the accuracy
-- [ ] [Docker Compose] Create a docker-compose file for the 2 images: your flask app and the machine learning app and run the same view the page in browser
-- [ ] Commit all the code to GitHub Repo
-- [ ] Document all the learnings with screenshots in the GitHub Wiki
+- [x] [Docker Compose] Create a docker-compose file for the 2 images: your flask app and the machine learning app and run the same view the page in browser
+- [x] Commit all the code to GitHub Repo
+- [x] Document all the learnings with screenshots in the GitHub Wiki
 - [ ] Create a post on Linkedin
