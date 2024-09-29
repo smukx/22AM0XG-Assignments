@@ -92,6 +92,13 @@
 
 ![image](https://github.com/user-attachments/assets/00c41438-9e1f-4b27-9fbc-1b7cd437ac66)
 
+**17. Docker tag**
+
+![image](https://github.com/user-attachments/assets/e8e75855-3c4c-4f71-9e33-2916272f3386)
+
+**18. Docker Compose**
+
+
 
 ***
 
