@@ -35,7 +35,7 @@
 
 ***
 
-#### #3 [Docker Compose] Create a docker compose file for the 2 images : your flask app and the machine learning app and run the same view the page in browser
+#### #3 [Docker Compose] Create a docker compose file for the 2 images:
 
 > Movie REVIEW
 
@@ -43,11 +43,16 @@
 
 ![image](https://github.com/user-attachments/assets/5c0ece0c-1da6-4f0e-9aeb-9dc03d9eaeb1)
 
+![image](https://github.com/user-attachments/assets/bd90a9f9-73fa-413d-8491-e2d61b81328f)
+
+
 > Email Prediction 
 
 ![image](https://github.com/user-attachments/assets/4e4f1d0a-22e0-4133-b6b3-406590fa56a7)
 
 ![image](https://github.com/user-attachments/assets/4d5fcf51-61b2-4790-ba93-a2fd96e1f612)
+
+![image](https://github.com/user-attachments/assets/8056b8c0-3d15-48b7-a40a-04d75cc0d26c)
 
 
 ***
