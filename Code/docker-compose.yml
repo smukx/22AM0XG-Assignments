@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  kavin:
+    image: "smukx07/simple-flask"
+    ports:
+      - "5001:5000"
+    container_name: kavin
+    restart: always
+  
+  smukx07:
+    image: "kanitha9/my-flask-app"
+    container_name: kanitha_container
+    restart: always
+    ports:
+      - "5002:5000"
